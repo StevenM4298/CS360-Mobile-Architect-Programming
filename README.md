@@ -20,6 +20,8 @@ I started by thinking of the app in a very iterative manner. For example, I focu
 
 
 •	How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+
+
 To test if the code was functional I prioritized certain elements, running the code and trying different kinds of input to ensure it worked, then moved onto another element. Once I tested one element, I would always go back and make sure the previous element still works and ensure the changes I made didn’t create a new bug in a previously functional method. This way of testing revealed to me that often times making a correction to one can likely hinder another element. The difficult job is to find a solution that balances between all the elements and ensures they are all functional together. 
 
 
